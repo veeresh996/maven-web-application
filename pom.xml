@@ -103,7 +103,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Facebook</name>
-	      <url>httphttp://65.2.172.95:9980/mithuntechnologies/repository/facebook-snapshot/</url>
+	      <url>http://65.2.172.95:9980/mithuntechnologies/repository/facebook-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
